@@ -4,9 +4,9 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5491130932746&text=Hola!)](https://api.whatsapp.com/send?phone=5491130932746&text=Hola!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luciano.miguel.ch95@gmail.com)](mailto:luciano.miguel.ch95@gmail.com)
 
-    Hola! Mi nombre es Luciano, soy estudiante de Ingeniería y desarrollador trainee.
-    /
-    Hello my name is Luciano, Engineering Student and trainee developer.
+    Hola! Mi nombre es Luciano, soy Desarrollador Fullstack y estudiante de Ingeniería Informática
+    
+    Hello my name is Luciano, I'm a Fullstack Developer and an Engineering student
 
 ## Herramientas / My Tools
 

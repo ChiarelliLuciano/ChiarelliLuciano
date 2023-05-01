@@ -1,24 +1,42 @@
-# :man_technologist: Luciano Chiarelli
+# 👋 Hi, I'm Luciano Chiarelli #
+Fullstack Developer   ||   Computer Engineering student   
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luciano-chiarelli-b6aa8bb8/)](https://www.linkedin.com/in/luciano-chiarelli-b6aa8bb8/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5491130932746&text=Hola!)](https://api.whatsapp.com/send?phone=5491130932746&text=Hola!)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luciano.miguel.ch95@gmail.com)](mailto:luciano.miguel.ch95@gmail.com)
+## 🌐 Connect with me
 
-    Hola! Mi nombre es Luciano, soy Desarrollador Fullstack y estudiante de Ingeniería Informática
-    
-    Hello my name is Luciano, I'm a Fullstack Developer and an Engineering student
+<p>
+  <a href="https://www.linkedin.com/in/luciano-chiarelli/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
+  </a>
+  <a href="mailto:luciano.miguel.ch95@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
+</a>
+</p>
 
-## Herramientas / My Tools
+## 🛠 Stack
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/ChiarelliLuciano/)](https://github.com/ChiarelliLuciano/)
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/ChiarelliLuciano/)](https://github.com/ChiarelliLuciano/)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/ChiarelliLuciano/)](https://github.com/ChiarelliLuciano/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/ChiarelliLuciano/)](https://github.com/ChiarelliLuciano/)
-[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/ChiarelliLuciano/)](https://github.com/ChiarelliLuciano/)
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/ChiarelliLuciano/)](https://github.com/ChiarelliLuciano/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/ChiarelliLuciano/)](https://github.com/ChiarelliLuciano/)
-[![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&link=https://github.com/ChiarelliLuciano/)](https://github.com/ChiarelliLuciano/)
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="30"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="30"/>
+</p>
 
----
+## 📝 About me
+
+As a Full Stack Developer, my goal is to deliver high-quality applications that meet the needs of end-users and exceed their expectations. Whether it's building a new web application from scratch or improving an existing one, I am always eager to take on new challenges and learn new technologies to improve my skills and stay up-to-date with the latest industry trends.
+
+## 🎓 Education
+
+### 🏫 Plataforma 5 - Coding Bootcamp
+**Fullstack Developer, Javascript, Node JS, React**  
+📅 jan. 2023 - apr. 2023  
+🔖 800 hours of programming, fullstack javascript training  
+
+### 🏫 Universidad Nacional Arturo Jauretche
+**Currently pursuing a Computer Engineer degree**  
+📅 2016 - present
 
 ⭐️ From [ChiarelliLuciano](https://github.com/ChiarelliLuciano)

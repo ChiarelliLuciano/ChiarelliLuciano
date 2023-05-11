@@ -1,6 +1,10 @@
 # 👋 Hi, I'm Luciano Chiarelli #
 Fullstack Developer   ||   Computer Engineering student   
 
+## 📝 About me
+
+As a Full Stack Developer, my goal is to deliver high-quality applications that meet the needs of end-users and exceed their expectations. Whether it's building a new web application from scratch or improving an existing one, I am always eager to take on new challenges and learn new technologies to improve my skills and stay up-to-date with the latest industry trends.
+
 ## 🌐 Connect with me
 
 <p>
@@ -23,10 +27,6 @@ Fullstack Developer   ||   Computer Engineering student
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="30"/>
 </p>
-
-## 📝 About me
-
-As a Full Stack Developer, my goal is to deliver high-quality applications that meet the needs of end-users and exceed their expectations. Whether it's building a new web application from scratch or improving an existing one, I am always eager to take on new challenges and learn new technologies to improve my skills and stay up-to-date with the latest industry trends.
 
 ## 🎓 Education
 

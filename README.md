@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Luciano Chiarelli #
-Fullstack Developer   ||   Computer Engineering student   
+Computer Engineering Student    |    Fullstack Developer
 
 ## 📝 About me
 

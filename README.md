@@ -40,6 +40,10 @@ As a Full Stack Developer, my goal is to deliver high-quality applications that 
 
 ### 🏫 Universidad Nacional Arturo Jauretche
 **Currently pursuing a Computer Engineer degree**  
-📅 2016 - present
+📅 2020 - present
+
+### 🐍 Contributions
+
+![snake gif](https://github.com/ChiarelliLuciano/ChiarelliLuciano/blob/output/github-contribution-grid-snake.svg)
 
 ⭐️ From [ChiarelliLuciano](https://github.com/ChiarelliLuciano)

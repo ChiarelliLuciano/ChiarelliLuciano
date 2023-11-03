@@ -44,6 +44,6 @@ As a Full Stack Developer, my goal is to deliver high-quality applications that 
 
 ### 🐍 Contributions
 
-![snake gif](https://github.com/ChiarelliLuciano/ChiarelliLuciano/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ChiarelliLuciano/ChiarelliLuciano/blob/output/github-contribution-grid-snake.gif)
 
 ⭐️ From [ChiarelliLuciano](https://github.com/ChiarelliLuciano)

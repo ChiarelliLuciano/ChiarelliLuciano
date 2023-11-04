@@ -42,8 +42,8 @@ As a Full Stack Developer, my goal is to deliver high-quality applications that 
 **Currently pursuing a Computer Engineer degree**  
 📅 2020 - present
 
-### 🐍 Contributions
+## 🐍 There's a snake in my boot!
 
-![snake gif](https://github.com/ChiarelliLuciano/ChiarelliLuciano/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/ChiarelliLuciano/ChiarelliLuciano/blob/output/github-contribution-grid-snake.svg)
 
 ⭐️ From [ChiarelliLuciano](https://github.com/ChiarelliLuciano)
